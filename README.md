@@ -87,7 +87,7 @@ City with most new cases: Porto Alegre
 City with lowest mortality: Santa Maria
 ```
 
-#### Mean of New Deaths
+#### Mean of New Deaths:
 ```mathematica
 Mean of new deaths: 0.06
 ```
